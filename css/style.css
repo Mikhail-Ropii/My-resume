@@ -25,7 +25,7 @@ a {
 }
 
 .main-cont-sections {
-  padding: 100px 80px;
+  padding: 60px 60px;
 }
 .main-cont-title {
   font-style: normal;
@@ -54,7 +54,6 @@ a {
   font-size: 45px;
   line-height: 55px;
   color: #6dd0db;
-  padding: 0 0 25px 0;
 }
 .about-me-description {
   width: 400px;
